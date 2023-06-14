@@ -1,0 +1,50 @@
+body {
+  width: 700px;
+  display: block;
+  margin: 0 auto;
+  border: 2px double black;
+  color: #5a6275;
+  padding-left: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+.cities {
+  text-align: center;
+  font-size: 24px;
+}
+.card {
+  border: none;
+}
+
+.type-city {
+  border: 1px solid lightgreen;
+  font-size: 1em;
+  font-weight: 350px;
+  line-height: 1.7;
+
+  border-radius: 30px;
+  padding: 5px 100px 5px 5px;
+}
+.image-temperature {
+  font-size: 50px;
+}
+
+.container-one {
+  font-size: 15px;
+}
+.container-two {
+  font-size: 50px;
+}
+.container-three {
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn-success {
+  border-radius: 50px;
+}
+.metric-cf {
+  font-size: small;
+}
+
+.metric {
+  font-size: 30px;
+}
