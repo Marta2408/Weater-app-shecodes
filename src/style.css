@@ -48,3 +48,6 @@ body {
 .metric {
   font-size: 30px;
 }
+.linkend {
+  text-decoration: none;
+}
